@@ -1,7 +1,10 @@
 # Mous Paid Social ROAS Attribution Model
 ### Channel Efficiency Across Meta, TikTok & YouTube
 
-**Live Demo:** [YOUR_STREAMLIT_URL] ← *Add after deploying to share.streamlit.io*
+**Live Demo:** https://mousanalysis.streamlit.app/
+<img width="1568" height="749" alt="image" src="https://github.com/user-attachments/assets/43a424f1-714e-4451-b099-53692273e450" />
+
+<img width="1568" height="724" alt="image" src="https://github.com/user-attachments/assets/15c1edff-afe5-4b57-8d27-f3b4a8a010e2" />
 
 ---
 
